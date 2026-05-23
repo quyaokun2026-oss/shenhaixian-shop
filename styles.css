@@ -1167,10 +1167,12 @@ img {
     justify-content: center;
 }
 
-.story-svg {
+.story-illustration img {
     width: 100%;
     max-width: 400px;
     height: auto;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
 }
 
 /* 产地列表 */
